@@ -55,7 +55,7 @@ function showQuestion() {
     }
   });
 
-  renderPalette();
+  renderDropdown();
 }
 
 function startTimer() {
@@ -67,25 +67,23 @@ function startTimer() {
   }, 1000);
 }
 
-function renderPalette() {
-  const palette = document.getElementById("question-palette");
-  palette.innerHTML = "";
+function renderDropdown() {
+  const select = document.getElementById("jump-select");
+  select.innerHTML = "";
 
   questions.forEach((_, i) => {
-    const btn = document.createElement("button");
-    btn.innerText = i + 1;
-
-    if (i === currentIndex) btn.classList.add("active");
-    if (answers[i]) btn.classList.add("answered");
-
-    btn.onclick = () => {
-      clearInterval(timer);
-      currentIndex = i;
-      showQuestion();
-    };
-
-    palette.appendChild(btn);
+    const opt = document.createElement("option");
+    opt.value = i;
+    opt.text = answers[i] ? `Question ${i + 1} ✔` : `Question ${i + 1}`;
+    if (i === currentIndex) opt.selected = true;
+    select.appendChild(opt);
   });
+}
+
+function jumpToQuestion(index) {
+  clearInterval(timer);
+  currentIndex = Number(index);
+  showQuestion();
 }
 
 function nextQuestion() {

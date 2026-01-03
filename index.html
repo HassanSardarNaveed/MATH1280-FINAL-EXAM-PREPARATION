@@ -9,14 +9,14 @@
 
 <div class="app">
 
-  <!-- START -->
+  <!-- START SCREEN -->
   <div id="start-screen" class="card fade-in">
     <h1>Practice Quiz</h1>
     <p>⏱ 90 seconds per question</p>
     <button class="primary-btn" onclick="startQuiz()">Start Quiz</button>
   </div>
 
-  <!-- QUIZ -->
+  <!-- QUIZ SCREEN -->
   <div id="quiz-screen" class="card hidden slide-in">
 
     <div class="top-bar">
@@ -26,9 +26,13 @@
 
     <h2 id="question-text"></h2>
 
-    <img id="question-image" class="hidden"/>
+    <img id="question-image" class="hidden">
 
-    <div id="question-palette"></div>
+    <!-- JUMP DROPDOWN -->
+    <div class="jump-box">
+      <label for="jump-select">Jump to question:</label>
+      <select id="jump-select" onchange="jumpToQuestion(this.value)"></select>
+    </div>
 
     <div id="options"></div>
 
@@ -39,7 +43,7 @@
     </div>
   </div>
 
-  <!-- RESULT -->
+  <!-- RESULT SCREEN -->
   <div id="result-screen" class="card hidden fade-in"></div>
 
 </div>
