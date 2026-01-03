@@ -1,0 +1,2037 @@
+[
+  {
+    "id": 1,
+    "question": "For a continuous probability distribution, 0 <= x <= 10. What is P(x=7)?",
+    "options": [
+      "0.75",
+      "0",
+      "0.33",
+      ""
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 2,
+    "question": "A call center technical specialist spends varying amount of time in each call to resolve the concern. The time spent in each call is modeled using the following distribution: X~ Exp (0.2). Find the 70th percentile:",
+    "options": [
+      "6.02",
+      "5.02",
+      "2.02",
+      ""
+    ],
+    "correctAnswer": "6.02"
+  },
+  {
+    "id": 3,
+    "question": "For a continuous probability distribution, 0 <= x <= 15. What is P(x > 15)?",
+    "options": [
+      "0.25",
+      "1",
+      "0",
+      ""
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 4,
+    "question": "What is the area under f(x) if the function is a continuous probability density function?",
+    "options": [
+      "1.0",
+      "2.5",
+      "1.5",
+      ""
+    ],
+    "correctAnswer": "1.0"
+  },
+  {
+    "id": 5,
+    "question": "What does the shaded area represent? P (_ < x < _)",
+    "options": [
+      "P(2 < x < 5)",
+      "P(1 < x < 8)",
+      "P(5 < x < 8)",
+      ""
+    ],
+    "correctAnswer": "P(2 < x < 5)"
+  },
+  {
+    "id": 6,
+    "question": "A coin is flipped once. Let X be the random variable representing the two possible outcomes (0 for head, 1 for tail) with P(x=head)=0.5 and P(x=tail)=0.5. What is the expected value of X?",
+    "options": [
+      "0.5",
+      "0",
+      "0.25",
+      ""
+    ],
+    "correctAnswer": "0.5"
+  },
+  {
+    "id": 7,
+    "question": "For the graph below, find the probability that x falls in the shaded area:",
+    "options": [
+      "0.333",
+      "0.222",
+      "0.455",
+      ""
+    ],
+    "correctAnswer": "0.222"
+  },
+  {
+    "id": 8,
+    "question": "Let X be a binomial random variable with the probability of success of 0.22. The number of successes is obtained in 21 independent trials. Find the expected value of X:",
+    "options": [
+      "1.9",
+      "4.62",
+      "2.6",
+      ""
+    ],
+    "correctAnswer": "4.62"
+  },
+  {
+    "id": 9,
+    "question": "A call center technical specialist spends varying amount of time in each call to resolve the concern. The time spent in each call is modeled using the following distribution: X~ Exp (0.2). Find P(x > 6):",
+    "options": [
+      "0.01012",
+      "0.3012",
+      "0.062",
+      ""
+    ],
+    "correctAnswer": "0.3012"
+  },
+  {
+    "id": 10,
+    "question": "Let X be a binomial random variable with the probability of success of 0.22. The number of successes is obtained in 21 independent trials. Find the variance of X:",
+    "options": [
+      "3.6",
+      "1.9",
+      "13",
+      ""
+    ],
+    "correctAnswer": "3.6"
+  },
+  {
+    "id": 11,
+    "question": "A call center technical specialist spends varying amount of time in each call to resolve the concern. The time spent in each call is modeled using the following distribution: X~ Exp (0.2). What is the mean?",
+    "options": [
+      "1",
+      "5",
+      "2",
+      ""
+    ],
+    "correctAnswer": "5"
+  },
+  {
+    "id": 12,
+    "question": "Which type of distribution does the below graph illustrate?",
+    "options": [
+      "Normal distribution",
+      "Geometric distribution",
+      "Exponential distribution",
+      ""
+    ],
+    "correctAnswer": "Exponential distribution"
+  },
+  {
+    "id": 13,
+    "question": "A call center technical specialist spends varying amount of time in each call to resolve the concern. The time spent in each call is modeled using the following distribution: X~ Exp (0.2). What is the standard deviation?",
+    "options": [
+      "3",
+      "2",
+      "5",
+      ""
+    ],
+    "correctAnswer": "5"
+  },
+  {
+    "id": 14,
+    "question": "What does the shaded area represent? P (_ < x < _)",
+    "options": [
+      "P(7 < x < 10)",
+      "P(0 < x < 10)",
+      "P(6 < x < 7)",
+      ""
+    ],
+    "correctAnswer": "P(6 < x < 7)"
+  },
+  {
+    "id": 15,
+    "question": "A call center technical specialist spends varying amount of time in each call to resolve the concern. The time spent in each call is modeled using the following distribution: X~ Exp (0.2). Find the 50th percentile (or median):",
+    "options": [
+      "2.44",
+      "3.00",
+      "3.47",
+      ""
+    ],
+    "correctAnswer": "3.47"
+  },
+  {
+    "id": 16,
+    "question": "A call center technical specialist spends varying amount of time in each call to resolve the concern. The time spent in each call is modeled using the following distribution: X~ Exp (0.2). Find P(2 < x < 10):",
+    "options": [
+      "0.5350",
+      "0.6350",
+      "0.2350",
+      ""
+    ],
+    "correctAnswer": "0.5350"
+  },
+  {
+    "id": 17,
+    "question": "A coin is flipped once. Let X be the random variable representing the two possible outcomes (0 and 1) with equal probability 0.5. What is the standard deviation of X?",
+    "options": [
+      "0.50",
+      "0.00",
+      "0.707",
+      ""
+    ],
+    "correctAnswer": "0.50"
+  },
+  {
+    "id": 18,
+    "question": "For the graph below, find the probability that x falls in the shaded area:",
+    "options": [
+      "0.6",
+      "0.5",
+      "0.625",
+      ""
+    ],
+    "correctAnswer": "0.625"
+  },
+  {
+    "id": 19,
+    "question": "Which type of distribution does the below graph illustrate?",
+    "options": [
+      "binomial distribution",
+      "uniform distribution",
+      "exponential distribution",
+      ""
+    ],
+    "correctAnswer": "uniform distribution"
+  },
+  {
+    "id": 20,
+    "question": "A coin is flipped once. Let X be the random variable representing the two possible outcomes. What type of random variable represents X?",
+    "options": [
+      "a continuous random variable",
+      "a discrete random variable",
+      "",
+      ""
+    ],
+    "correctAnswer": "a discrete random variable"
+  },
+  {
+    "id": 21,
+    "question": "Using the distribution of the random variable Y shown in the table (Values: -4, 0, 2, 6, 9, 11; Probabilities: .08, .13, .16, ?, .19, .22), the missing probability value is:",
+    "options": [
+      ".14",
+      ".05",
+      ".22",
+      ".18"
+    ],
+    "correctAnswer": ".22"
+  },
+  {
+    "id": 22,
+    "question": "Using the distribution of Y, P(Y < 3) is equal to:",
+    "options": [
+      ".08",
+      ".13",
+      ".21",
+      ".37"
+    ],
+    "correctAnswer": ".37"
+  },
+  {
+    "id": 23,
+    "question": "Using the distribution of Y, The expectation of Y, E(Y), is:",
+    "options": [
+      "0.17",
+      "0.50",
+      "2.00",
+      "5.45"
+    ],
+    "correctAnswer": "5.45"
+  },
+  {
+    "id": 24,
+    "question": "Using the distribution of Y, The standard deviation of Y (rounded to two decimal places) is:",
+    "options": [
+      "4.29",
+      "4.53",
+      "4.71",
+      "5.45"
+    ],
+    "correctAnswer": "4.71"
+  },
+  {
+    "id": 25,
+    "question": "Random variable Z represents the number of successes observed in 500 repetitions of an experiment with probability of success 0.4. P(Z=240), the probability that there were EXACTLY 240 successes (rounded to 2 decimal places):",
+    "options": [
+      ".00",
+      ".01",
+      ".03",
+      ".13"
+    ],
+    "correctAnswer": ".00"
+  },
+  {
+    "id": 26,
+    "question": "Using the same random variable Z, P(Z <= 240) (rounded to two decimal places) is:",
+    "options": [
+      ".00",
+      ".48",
+      ".62",
+      "1.00"
+    ],
+    "correctAnswer": "1.00"
+  },
+  {
+    "id": 27,
+    "question": "A health club is interested in knowing how many times a typical member uses the club in a week. They decide to ask every tenth customer on a specified day to complete a short survey. What kind of a sampling design is this?",
+    "options": [
+      "Cluster",
+      "Stratified",
+      "Simple random",
+      "Systematic"
+    ],
+    "correctAnswer": "Systematic"
+  },
+  {
+    "id": 28,
+    "question": "Identify the given random variable as being discrete or continuous. What is the braking time of a car?",
+    "options": [
+      "Discrete",
+      "Continuous",
+      " ",
+      " "
+    ],
+    "correctAnswer": "Continuous"
+  },
+  {
+    "id": 29,
+    "question": "The time to wait for a particular rural bus is distributed uniformly from zero to 75 minutes. One hundred riders are randomly sampled to learn how long they waited. The 90th percentile sample average wait time (in minutes) for a sample of 100 riders is:",
+    "options": [
+      "315.0",
+      "40.3",
+      "38.5",
+      "65.2"
+    ],
+    "correctAnswer": "40.3"
+  },
+  {
+    "id": 30,
+    "question": "In a left-skewed distribution, which is greater?",
+    "options": [
+      "The mean",
+      "The median",
+      "The mode",
+      " "
+    ],
+    "correctAnswer": "The mode"
+  },
+  {
+    "id": 31,
+    "question": "A study finds that the mean amount spent in a grocery store per visit by customers in a sample is $12.84. This is an example of a:",
+    "options": [
+      "Population",
+      "Sample",
+      "Parameter",
+      "Statistic"
+    ],
+    "correctAnswer": "Statistic"
+  },
+  {
+    "id": 32,
+    "question": "The cost of unleaded gasoline in the Bay Area once followed an unknown distribution with a mean of $4.59 and a standard deviation of $0.10. Sixteen gas stations from the Bay Area are randomly chosen. Find the probability that the average price for 30 gas stations is less than $4.55.",
+    "options": [
+      "0.6554",
+      "0.3446",
+      "0.0142",
+      "0.9858"
+    ],
+    "correctAnswer": "0.0142"
+  },
+  {
+    "id": 33,
+    "question": "The patient recovery time from a particular surgical procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days. What is the z-score for a patient who takes 10 days to recover?",
+    "options": [
+      "1.5",
+      "0.2",
+      "2.2",
+      "7.3"
+    ],
+    "correctAnswer": "2.2"
+  },
+  {
+    "id": 34,
+    "question": "We are interested in the number of times a teenager must be reminded to do his or her chores each week. A survey of 40 mothers was conducted. The table below shows the results of the survey (0:2, 1:5, 2:8, 3:14, 4:7, 5:4). Find the probability that a teenager is reminded two times.",
+    "options": [
+      "8",
+      "8/40",
+      "6/40",
+      "2"
+    ],
+    "correctAnswer": "8/40"
+  },
+  {
+    "id": 35,
+    "question": "In one town, the number of burglaries in a week has a Poisson distribution with a mean of 1.9. Find the probability that in a randomly selected week the number of burglaries is at least three.",
+    "options": [
+      "0.1710",
+      "0.1253",
+      "0.8290",
+      "0.2963"
+    ],
+    "correctAnswer": "0.2963"
+  },
+  {
+    "id": 36,
+    "question": "The lifetime of a computer circuit board is normally distributed with a mean of 2,500 hours and a standard deviation of 60 hours. What is the probability that a randomly chosen board will last at most 2,560 hours?",
+    "options": [
+      "0.8413",
+      "0.1587",
+      "0.3461",
+      "0.6539"
+    ],
+    "correctAnswer": "0.8413"
+  },
+  {
+    "id": 37,
+    "question": "If X ~ Exp (0.8), then P (x < μ) =",
+    "options": [
+      "0.3679",
+      "0.4727",
+      "0.6321",
+      "cannot be determined"
+    ],
+    "correctAnswer": "0.6321"
+  },
+  {
+    "id": 38,
+    "question": "The patient recovery time from a particular surgical procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days. The 90th percentile for recovery times is?",
+    "options": [
+      "8.89",
+      "7.07",
+      "7.99",
+      "4.32"
+    ],
+    "correctAnswer": "7.99"
+  },
+  {
+    "id": 39,
+    "question": "An experiment consists of tossing two, 12-sided dice (the numbers 1–12 are printed on the sides of each die). Let Event A = both dice show an even number. Let Event B = both dice show a number greater than eight. Find P(A|B)",
+    "options": [
+      "2/4",
+      "16/144",
+      "4/16",
+      "2/144"
+    ],
+    "correctAnswer": "4/16"
+  },
+  {
+    "id": 40,
+    "question": "Which measure of the center of data would a clothing store use when placing orders for the typical middle customer?",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "IQR"
+    ],
+    "correctAnswer": "Median"
+  },
+  {
+    "id": 41,
+    "question": "Imagine that the U.S. federal government had the means to survey all high school seniors in the United States concerning their plans for future education and employment and found that 50 percent were planning to attend a four-year college or university in the following year. What is this 50 percent is an example of?",
+    "options": [
+      "Parameter",
+      "Statistic",
+      "Variable",
+      "Data"
+    ],
+    "correctAnswer": "Parameter"
+  },
+  {
+    "id": 42,
+    "question": "Richard’s Furniture Company delivers furniture from 10 a.m. to 2 p.m. continuously and uniformly. We are interested in how long (in hours) past the 10 a.m. start time that individuals wait for their delivery. The average wait time is:",
+    "options": [
+      "one hour",
+      "two hours",
+      "two and a half hours",
+      "four hours"
+    ],
+    "correctAnswer": "two hours"
+  },
+  {
+    "id": 43,
+    "question": "On any given day, approximately 37.5 percent of the cars parked in the De Anza parking garage are parked crookedly. We randomly survey 22 cars. We are interested in the number of cars that are parked crookedly. For every 22 cars, how many would you expect to be parked crookedly, on average?",
+    "options": [
+      "8.25",
+      "11",
+      "18",
+      "7.5"
+    ],
+    "correctAnswer": "8.25"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is NOT true about the distribution for averages?",
+    "options": [
+      "The mean, median, and mode are equal.",
+      "The area under the curve is 1.",
+      "The curve never touches the x-axis.",
+      "The curve is skewed to the right."
+    ],
+    "correctAnswer": "The curve is skewed to the right."
+  },
+  {
+    "id": 45,
+    "question": "According to a college survey, 22% of all students work full time. Find the mean for the number of students who work full time in samples of size 16.",
+    "options": [
+      "3.5",
+      "2.8",
+      "4.0",
+      "0.2"
+    ],
+    "correctAnswer": "3.5"
+  },
+  {
+    "id": 46,
+    "question": "Find the mean, μ, for the binomial distribution which has the stated values of n and p. n = 676; p = 0.7.",
+    "options": [
+      "μ = 474.9",
+      "μ = 473.2",
+      "μ = 474.5",
+      "μ = 471.7"
+    ],
+    "correctAnswer": "μ = 473.2"
+  },
+  {
+    "id": 47,
+    "question": "Sara, a statistics student, wanted to determine the mean number of books that college professors have in their office. She randomly selected two buildings on campus and asked each professor in the selected buildings how many books are in his or her office. Sara surveyed 25 professors. The type of sampling selected is:",
+    "options": [
+      "simple random sampling",
+      "systematic sampling",
+      "cluster sampling",
+      "stratified sampling"
+    ],
+    "correctAnswer": "cluster sampling"
+  },
+  {
+    "id": 48,
+    "question": "Richard’s Furniture Company delivers furniture from 10 a.m. to 2 p.m. continuously and uniformly. We are interested in how long (in hours) past the 10 a.m. start time that individuals wait for their delivery. Suppose that it is now past noon on a delivery day. The probability that a person must wait at least one and a half more hours is:",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "3/8"
+    ],
+    "correctAnswer": "1/4"
+  },
+  {
+    "id": 49,
+    "question": "Find the standard deviation, σ, for the binomial distribution which has the stated values of n and p. n = 38; p = 0.4",
+    "options": [
+      "σ = 0.61",
+      "σ = 6.29",
+      "σ = 3.02",
+      "σ = 7.14"
+    ],
+    "correctAnswer": "σ = 3.02"
+  },
+  {
+    "id": 50,
+    "question": "The length of time it takes to find a parking space at 9 a.m. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes. Based on the given information and numerically justified, would you be surprised if it took less than one minute to find a parking space?",
+    "options": [
+      "Yes",
+      "No",
+      "Unable to determine",
+      ""
+    ],
+    "correctAnswer": "Yes"
+  },
+  {
+    "id": 51,
+    "question": "The length of time it takes to find a parking space at 9 a.m. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes. Seventy percent of the time, it takes more than how many minutes to find a parking space?",
+    "options": [
+      "1.24",
+      "2.41",
+      "3.95",
+      "6.05"
+    ],
+    "correctAnswer": "3.95"
+  },
+  {
+    "id": 52,
+    "question": "The U.S. federal government conducts a survey of high school seniors concerning their plans for future education and employment. One question asks whether they are planning to attend a four-year college or university in the following year. Fifty percent answer yes to this question. What is that 50 percent?",
+    "options": [
+      "Parameter",
+      "Statistic",
+      "Variable",
+      "Data"
+    ],
+    "correctAnswer": "Statistic"
+  },
+  {
+    "id": 53,
+    "question": "A community college offers classes six days a week: Monday through Saturday. Maria conducted a study... The results of her survey are summarized. What is the 60th percentile for this data?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4"
+  },
+  {
+    "id": 54,
+    "question": "In a right-skewed distribution, which is greater?",
+    "options": [
+      "The mean",
+      "The median",
+      "The mode",
+      ""
+    ],
+    "correctAnswer": "The mean"
+  },
+  {
+    "id": 55,
+    "question": "On any given day, approximately 37.5 percent of the cars parked in the De Anza parking garage are parked crookedly. We randomly survey 22 cars. What is the probability that at least 10 of the 22 cars are parked crookedly?",
+    "options": [
+      "0.1263",
+      "0.1607",
+      "0.2870",
+      "0.8393"
+    ],
+    "correctAnswer": "0.2870"
+  },
+  {
+    "id": 56,
+    "question": "The patient recovery time from a particular surgical procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days. What is the probability of spending more than two days in recovery?",
+    "options": [
+      "0.0580",
+      "0.8447",
+      "0.0553",
+      "0.9420"
+    ],
+    "correctAnswer": "0.9420"
+  },
+  {
+    "id": 57,
+    "question": "The length of time it takes to find a parking space at 9 a.m. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes. Find the probability that it takes at least eight minutes to find a parking space.",
+    "options": [
+      "0.0001",
+      "0.9270",
+      "0.1862",
+      "0.0668"
+    ],
+    "correctAnswer": "0.0668"
+  },
+  {
+    "id": 58,
+    "question": "A community college offers classes six days a week... In each of her five classes she randomly selected 10 students... How many students come to campus for classes four days a week?",
+    "options": [
+      "49",
+      "25",
+      "30",
+      "13"
+    ],
+    "correctAnswer": "25"
+  },
+  {
+    "id": 59,
+    "question": "A health club is interested in knowing how many times a typical member uses the club in a week. They decide to ask every tenth customer... What kind of data is number of visits per week?",
+    "options": [
+      "Qualitative",
+      "Quantitative-continuous",
+      "Quantitative-discrete",
+      ""
+    ],
+    "correctAnswer": "Quantitative-discrete"
+  },
+  {
+    "id": 60,
+    "question": "A community college offers classes six days a week... X ~ U (4, 10). Find the 30th percentile.",
+    "options": [
+      "0.3000",
+      "3",
+      "5.8",
+      "6.1"
+    ],
+    "correctAnswer": "5.8"
+  },
+  {
+    "id": 61,
+    "question": "One hundred eighteen students were asked what type of color their bedrooms were painted... The results were tabulated according to gender. Find the probability that a randomly chosen student is male given the student’s bedroom is painted with dark colors.",
+    "options": [
+      "30/118",
+      "30/48",
+      "22/118",
+      "30/52"
+    ],
+    "correctAnswer": "30/52"
+  },
+  {
+    "id": 62,
+    "question": "The probability that a car will have a flat tire while driving through a certain tunnel is 0.00004. Use the Poisson distribution to approximate the probability that among 7000 cars passing through this tunnel, at least one will have a flat tire.",
+    "options": [
+      "0.2442",
+      "0.3126",
+      "0.7558",
+      "0.7884"
+    ],
+    "correctAnswer": "0.2442"
+  },
+  {
+    "id": 63,
+    "question": "The cost of unleaded gasoline in the Bay Area once followed an unknown distribution with a mean of $4.59 and a standard deviation of $0.10. Sixteen gas stations... What's the approximate probability that the average price for 16 gas stations is more than $4.69?",
+    "options": [
+      "almost zero",
+      "0.1587",
+      "0.0943",
+      "unknown"
+    ],
+    "correctAnswer": "almost zero"
+  },
+  {
+    "id": 64,
+    "question": "The manager of a department store decides to measure employee satisfaction by selecting four departments at random and conducting interviews with all the employees in those four departments. What type of survey design is this?",
+    "options": [
+      "Cluster",
+      "Stratified",
+      "Simple random",
+      "Systematic"
+    ],
+    "correctAnswer": "Cluster"
+  },
+  {
+    "id": 65,
+    "question": "An experiment consists of tossing two, 12-sided dice... Let Event A = both dice show an even number. Let Event B = both dice show a number greater than eight. Events A and B are:",
+    "options": [
+      "Mutually exclusive",
+      "Independent",
+      "Mutually exclusive and independent",
+      "Neither mutually exclusive nor independent"
+    ],
+    "correctAnswer": "Independent"
+  },
+  {
+    "id": 66,
+    "question": "We are interested in the number of times a teenager must be reminded to do his or her chores each week. A survey of 40 mothers... Find the expected number of times a teenager is reminded to do his or her chores.",
+    "options": [
+      "15",
+      "2.78",
+      "1.0",
+      "3.13"
+    ],
+    "correctAnswer": "2.78"
+  },
+  {
+    "id": 67,
+    "question": "Which of the following is NOT true about the theoretical distribution of sums?",
+    "options": [
+      "The mean, median, and mode are equal.",
+      "The area under the curve is one.",
+      "The curve never touches the x-axis.",
+      "The curve is skewed to the right."
+    ],
+    "correctAnswer": "The curve is skewed to the right."
+  },
+  {
+    "id": 68,
+    "question": "What kind of data is the amount of money spend in a grocery store?",
+    "options": [
+      "Qualitative",
+      "Quantitative-continuous",
+      "Quantitative-discrete",
+      ""
+    ],
+    "correctAnswer": "Quantitative-discrete"
+  },
+  {
+    "id": 69,
+    "question": "The length of time it takes to find a parking space at 9 a.m. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes. If the mean is significantly greater than the standard deviation, which of the following statements is true? I. The data cannot follow the uniform distribution. II. The data cannot follow the exponential distribution. III. The data cannot follow the normal distribution.",
+    "options": [
+      "I only",
+      "II only",
+      "III only",
+      "I, II, and III"
+    ],
+    "correctAnswer": "II only"
+  },
+  {
+    "id": 70,
+    "question": "The patient recovery time from a particular surgical procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days. What is the median recovery time?",
+    "options": [
+      "2.7",
+      "5.3",
+      "7.4",
+      "2.1"
+    ],
+    "correctAnswer": "5.3"
+  },
+  {
+    "id": 71,
+    "question": "Richard’s Furniture Company delivers furniture from 10 a.m. to 2 p.m. continuously and uniformly. We are interested in how long (in hours) past the 10 a.m. start time that individuals wait for their delivery. Χ ~ _____ (_____, _____)",
+    "options": [
+      "U (0, 4)",
+      "U (10, 2)",
+      "Eχp (2)",
+      "N (2, 1)"
+    ],
+    "correctAnswer": "U (0, 4)"
+  },
+  {
+    "id": 72,
+    "question": "The time to wait for a particular rural bus is distributed uniformly from zero to 75 minutes. One hundred riders are randomly sampled... Would you be surprised, based on numerical calculations, if the sample average wait time (in minutes) for 100 riders was less than 30 minutes?",
+    "options": [
+      "yes",
+      "no",
+      "There is not enough information.",
+      ""
+    ],
+    "correctAnswer": "yes"
+  },
+  {
+    "id": 73,
+    "question": "Which of the following is true about the standard normal distribution?",
+    "options": [
+      "The mean is 0 and the standard deviation is 1.",
+      "The mean is 1 and the standard deviation is 0.",
+      "The area under the curve is infinite.",
+      "It is always skewed to the right."
+    ],
+    "correctAnswer": "The mean is 0 and the standard deviation is 1."
+  },
+  {
+    "id": 74,
+    "question": "A random variable X is uniformly distributed between 2 and 12. What is the probability that X is between 4 and 8?",
+    "options": [
+      "0.4",
+      "0.2",
+      "0.6",
+      "0.3"
+    ],
+    "correctAnswer": "0.4"
+  },
+  {
+    "id": 75,
+    "question": "Suppose the time it takes to run a mile is normally distributed with a mean of 7 minutes and a standard deviation of 1.5 minutes. What percentage of runners take more than 10 minutes?",
+    "options": [
+      "2.28%",
+      "5.00%",
+      "1.50%",
+      "0.15%"
+    ],
+    "correctAnswer": "2.28%"
+  },
+  {
+    "id": 76,
+    "question": "If samples of size n are drawn from a population with mean μ and standard deviation σ, the mean of the sampling distribution of the sample mean is equal to:",
+    "options": [
+      "μ",
+      "μ / n",
+      "σ",
+      "σ / √n"
+    ],
+    "correctAnswer": "μ"
+  },
+  {
+    "id": 77,
+    "question": "The standard deviation of the sampling distribution of the sample mean (standard error) is calculated as:",
+    "options": [
+      "σ / √n",
+      "σ",
+      "σ / n",
+      "μ / √n"
+    ],
+    "correctAnswer": "σ / √n"
+  },
+  {
+    "id": 78,
+    "question": "For a normal distribution, approximately what percentage of data falls within one standard deviation of the mean?",
+    "options": [
+      "68%",
+      "95%",
+      "99.7%",
+      "50%"
+    ],
+    "correctAnswer": "68%"
+  },
+  {
+    "id": 79,
+    "question": "Which of the following best describes the Central Limit Theorem?",
+    "options": [
+      "As the sample size increases, the sampling distribution of the mean approaches a normal distribution regardless of the population distribution.",
+      "The sample mean is always equal to the population mean.",
+      "The population distribution becomes normal as the sample size increases.",
+      "The standard deviation of the sample increases as sample size increases."
+    ],
+    "correctAnswer": "As the sample size increases, the sampling distribution of the mean approaches a normal distribution regardless of the population distribution."
+  },
+  {
+    "id": 80,
+    "question": "A continuous random variable X follows the exponential distribution with a decay parameter m = 0.5. What is the mean of X?",
+    "options": [
+      "2",
+      "0.5",
+      "1",
+      "4"
+    ],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 81,
+    "question": "A continuous random variable X follows the exponential distribution with a decay parameter m = 0.5. What is the probability that X > 2?",
+    "options": [
+      "0.3679",
+      "0.6321",
+      "0.1353",
+      "0.5000"
+    ],
+    "correctAnswer": "0.3679"
+  },
+  {
+    "id": 82,
+    "question": "In a hypothesis test, the p-value represents:",
+    "options": [
+      "The probability of obtaining a test statistic at least as extreme as the one observed, assuming the null hypothesis is true.",
+      "The probability that the null hypothesis is true.",
+      "The probability that the alternative hypothesis is true.",
+      "The probability of making a Type I error."
+    ],
+    "correctAnswer": "The probability of obtaining a test statistic at least as extreme as the one observed, assuming the null hypothesis is true."
+  },
+  {
+    "id": 83,
+    "question": "Which distribution is typically used to construct confidence intervals for the mean when the population standard deviation is unknown and the sample size is small?",
+    "options": [
+      "Student's t-distribution",
+      "Normal distribution",
+      "Chi-square distribution",
+      "F-distribution"
+    ],
+    "correctAnswer": "Student's t-distribution"
+  },
+  {
+    "id": 84,
+    "question": "Two events A and B are mutually exclusive if:",
+    "options": [
+      "P(A and B) = 0",
+      "P(A and B) = P(A) * P(B)",
+      "P(A or B) = 0",
+      "P(A) = P(B)"
+    ],
+    "correctAnswer": "P(A and B) = 0"
+  },
+  {
+    "id": 85,
+    "question": "If P(A) = 0.4, P(B) = 0.3, and A and B are independent, what is P(A and B)?",
+    "options": [
+      "0.12",
+      "0.7",
+      "0.1",
+      "0.0"
+    ],
+    "correctAnswer": "0.12"
+  },
+  {
+    "id": 86,
+    "question": "A 95% confidence interval for the population mean implies that:",
+    "options": [
+      "If we were to take many samples and construct a confidence interval from each, 95% of those intervals would contain the true population mean.",
+      "There is a 95% probability that the true population mean lies within the specific interval calculated.",
+      "95% of the data values lie within the interval.",
+      "The sample mean is 95% likely to be correct."
+    ],
+    "correctAnswer": "If we were to take many samples and construct a confidence interval from each, 95% of those intervals would contain the true population mean."
+  },
+  {
+    "id": 87,
+    "question": "In a box plot, the box represents which part of the data?",
+    "options": [
+      "The middle 50% (Interquartile Range)",
+      "The entire range of data",
+      "The lower 50%",
+      "The upper 50%"
+    ],
+    "correctAnswer": "The middle 50% (Interquartile Range)"
+  },
+  {
+    "id": 88,
+    "question": "Which type of variable is the color of a car classified as?",
+    "options": [
+      "qualitative",
+      "quantitative",
+      "discrete",
+      "continuous"
+    ],
+    "correctAnswer": "qualitative"
+  },
+  {
+    "id": 89,
+    "question": "Answer the question based on this Venn diagram: What set of numbers represent event B? (Assume diagram shows sets A={2,3,5} and B={1,3,5})",
+    "options": [
+      "{2}",
+      "{1,3,5}",
+      "{2,3,5}",
+      "{3,5}"
+    ],
+    "correctAnswer": "{1,3,5}"
+  },
+  {
+    "id": 90,
+    "question": "Based on the table of values (1.7462, 2.4291, 2.3978, 1.8295, 2.0956, 1.9801, 2.0638, 1.9862, 1.8192, 1.8221, 1.9418, 2.0916), find the variance:",
+    "options": [
+      "0.012",
+      "0.047",
+      "0.033",
+      "0.217"
+    ],
+    "correctAnswer": "0.047"
+  },
+  {
+    "id": 91,
+    "question": "Answer the question based on the dataset: 32, 32, 33, 34, 38, 40, 42, 42, 43, 44, 46, 47, 47, 48, 48, 48, 49, 50, 50, 51, 52, 52, 52, 53, 54, 56, 57, 57, 60, 61. What is the list of stems of the data?",
+    "options": [
+      "0,1,2,3,4,5,6",
+      "3,4,5,6",
+      "1,2,3,4,5,6",
+      "30, 40, 50, 60"
+    ],
+    "correctAnswer": "3,4,5,6"
+  },
+  {
+    "id": 92,
+    "question": "A University sample report a mean grade point average of 3.0. This value is an example of a:",
+    "options": [
+      "parameter",
+      "data",
+      "statistic",
+      "variable"
+    ],
+    "correctAnswer": "statistic"
+  },
+  {
+    "id": 93,
+    "question": "In a study of college students in a state, a sample of 1000 students were taken from 20 colleges. The average grade of all college students in that state is a:",
+    "options": [
+      "a statistic",
+      "a parameter",
+      "the median",
+      "a population"
+    ],
+    "correctAnswer": "a parameter"
+  },
+  {
+    "id": 94,
+    "question": "Based on the table of values (1.7462, ... 2.0916), find the Inter-Quartile range:",
+    "options": [
+      "0.26",
+      "0.41",
+      "0.33",
+      "0.68"
+    ],
+    "correctAnswer": "0.26"
+  },
+  {
+    "id": 95,
+    "question": "Based on the table of values (1.7462, ... 2.0916), find the max:",
+    "options": [
+      "2.421",
+      "2.291",
+      "2.4291",
+      "2.0916"
+    ],
+    "correctAnswer": "2.4291"
+  },
+  {
+    "id": 96,
+    "question": "Based on the table of values (1.7462, ... 2.0916), find the min:",
+    "options": [
+      "1.7462",
+      "1.7400",
+      "1.6000",
+      "1.8192"
+    ],
+    "correctAnswer": "1.7462"
+  },
+  {
+    "id": 97,
+    "question": "Based on the table of values (1.7462, ... 2.0916), find the third Quartile:",
+    "options": [
+      "2.03",
+      "2.09",
+      "1.82",
+      "2.42"
+    ],
+    "correctAnswer": "2.09"
+  },
+  {
+    "id": 98,
+    "question": "Given a box plot where the first quartile is approx 8 and the third quartile is approx 18, what is the interquartile range?",
+    "options": [
+      "8",
+      "10",
+      "13",
+      "18"
+    ],
+    "correctAnswer": "10"
+  },
+  {
+    "id": 99,
+    "question": "Answer the question based on the dataset: 32, ... 61. What are the leaves of the stem 5?",
+    "options": [
+      "0,0,1,2,2,2,3,4,6,7",
+      "0,1,2,2,2,3,4,6,7,7",
+      "0,0,1,2,2,2,3,4,6,7,7",
+      ""
+    ],
+    "correctAnswer": "0,0,1,2,2,2,3,4,6,7,7"
+  },
+  {
+    "id": 100,
+    "question": "A University student population is represented in three age groups: 18-25 (45%), 26-44 (36%), 45-64 (19%). Which student age group represents the highest proportion?",
+    "options": [
+      "18-25",
+      "26-44",
+      "45-64",
+      "They are equal"
+    ],
+    "correctAnswer": "18-25"
+  },
+  {
+    "id": 101,
+    "question": "Based on the table of values (1.7462, ... 2.0916), find the range:",
+    "options": [
+      "0.70",
+      "0.51",
+      "0.68",
+      "0.26"
+    ],
+    "correctAnswer": "0.68"
+  },
+  {
+    "id": 102,
+    "question": "Answer the question based on this Venn diagram: What set of numbers represent event A AND B? (Assume sets intersect at {3,5})",
+    "options": [
+      "{2}",
+      "{3,5}",
+      "{2,3,5}",
+      "{1,3,5}"
+    ],
+    "correctAnswer": "{3,5}"
+  },
+  {
+    "id": 103,
+    "question": "Based on the table of values (1.7462, ... 2.0916), find the standard deviation:",
+    "options": [
+      "0.21791",
+      "0.11791",
+      "0.41791",
+      "0.047"
+    ],
+    "correctAnswer": "0.21791"
+  },
+  {
+    "id": 104,
+    "question": "Which type of quantitative variable is the number of plastic bottles polluting the bottom of the sea classified as?",
+    "options": [
+      "discrete",
+      "continuous",
+      "qualitative",
+      ""
+    ],
+    "correctAnswer": "discrete"
+  },
+  {
+    "id": 105,
+    "question": "Which type of variable is the number of countries in the African continent classified as?",
+    "options": [
+      "quantitative",
+      "qualitative",
+      "continuous",
+      ""
+    ],
+    "correctAnswer": "quantitative"
+  },
+  {
+    "id": 106,
+    "question": "Which type of quantitative variable is the height of a NBA player classified as?",
+    "options": [
+      "continuous",
+      "discrete",
+      "qualitative",
+      ""
+    ],
+    "correctAnswer": "continuous"
+  },
+  {
+    "id": 107,
+    "question": "Given a Venn diagram, Find P (F OR HC).",
+    "options": [
+      "0.0346",
+      "0.074",
+      "0.0592",
+      "0.9014"
+    ],
+    "correctAnswer": "0.0592"
+  },
+  {
+    "id": 108,
+    "question": "Given a Venn diagram, Find P(HC).",
+    "options": [
+      "0.064",
+      "0.0394",
+      "0.9014",
+      "0.0592"
+    ],
+    "correctAnswer": "0.064"
+  },
+  {
+    "id": 109,
+    "question": "U and V are mutually exclusive events. P(U) = 0.26; P(V) = 0.37. P(U|V) =",
+    "options": [
+      "0.5",
+      "0.26",
+      "0",
+      "1"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 110,
+    "question": "Roll two fair dice separately. Let A be the event that either a three or four is rolled first, followed by an even number. Let B be the event that the sum of the two rolls is at most seven. Are A and B mutually exclusive events?",
+    "options": [
+      "Yes",
+      "No",
+      "",
+      ""
+    ],
+    "correctAnswer": "No"
+  },
+  {
+    "id": 111,
+    "question": "A box of cookies contains three chocolate and seven butter cookies. A person randomly selects two cookies (with replacement implied by tree diagram context usually, or without if stated). Let T be the event that the cookies selected were different flavors. Find P(T).",
+    "options": [
+      "6/90",
+      "48/90",
+      "42/90",
+      "21/90"
+    ],
+    "correctAnswer": "42/90"
+  },
+  {
+    "id": 112,
+    "question": "U and V are mutually exclusive events. P(U) = 0.26; P(V) = 0.37. P (U AND V) =",
+    "options": [
+      "0",
+      "0.26",
+      "0.63",
+      "0.0962"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 113,
+    "question": "Roll two fair dice separately. Let A be the event that either a three or four is rolled first, followed by an even number. Let B be the event that the sum of the two rolls is at most seven. Are A and B independent events?",
+    "options": [
+      "Yes",
+      "No",
+      "",
+      ""
+    ],
+    "correctAnswer": "No"
+  },
+  {
+    "id": 114,
+    "question": "Roll two fair dice separately. Let A be the event that either a three or four is rolled first, followed by an even number. Let B be the event that the sum of the two rolls is at most seven. P (A AND B) =",
+    "options": [
+      "7/36",
+      "1/36",
+      "5/36",
+      "4/36"
+    ],
+    "correctAnswer": "7/36"
+  },
+  {
+    "id": 115,
+    "question": "Given a Venn diagram, Find P (F AND HC).",
+    "options": [
+      "0.0346",
+      "0.0394",
+      "0.9014",
+      "0.074"
+    ],
+    "correctAnswer": "0.0394"
+  },
+  {
+    "id": 116,
+    "question": "Given a Venn diagram, Find P(F).",
+    "options": [
+      "0.0346",
+      "0.074",
+      "0.9014",
+      "0.0394"
+    ],
+    "correctAnswer": "0.074"
+  },
+  {
+    "id": 117,
+    "question": "Roll two fair dice separately. Let A be the event that either a three or four is rolled first, followed by an even number. Let B be the event that the sum of the two rolls is at most seven. P(A|B) =",
+    "options": [
+      "1/6",
+      "1/5",
+      "1/7",
+      "1/36"
+    ],
+    "correctAnswer": "1/7"
+  },
+  {
+    "id": 118,
+    "question": "Refer to three graphs (a, b, c). The medians for all three graphs are the same.",
+    "options": [
+      "True",
+      "False",
+      "",
+      ""
+    ],
+    "correctAnswer": "True"
+  },
+  {
+    "id": 119,
+    "question": "Refer to three graphs (a, b, c). The standard deviation for graph b is larger than the standard deviation for graph a.",
+    "options": [
+      "True",
+      "False",
+      "",
+      ""
+    ],
+    "correctAnswer": "True"
+  },
+  {
+    "id": 120,
+    "question": "Refer to three graphs (a, b, c). We cannot determine if any of the third quartiles for the three graphs is different.",
+    "options": [
+      "True",
+      "False",
+      "",
+      ""
+    ],
+    "correctAnswer": "False"
+  },
+  {
+    "id": 121,
+    "question": "Refer to three graphs (a, b, c). We cannot determine if any of the means for the three graphs is different.",
+    "options": [
+      "True",
+      "False",
+      "",
+      ""
+    ],
+    "correctAnswer": "True"
+  },
+  {
+    "id": 122,
+    "question": "Use the graph: One hundred eleven people who shopped in a special t-shirt store were asked the number of t-shirts they own costing more than $19 each. The percentage of people who own at most three t-shirts costing more than $19 each is approximately:",
+    "options": [
+      "21",
+      "59",
+      "41",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "41"
+  },
+  {
+    "id": 123,
+    "question": "An automobile producing company operates car dealerships... The team was sent to 20 randomly selected dealerships... One of the questions asked is: 'Do you currently possess a car made by our company?' The population in this survey is:",
+    "options": [
+      "The researchers that conducted the survey.",
+      "Customers that arrive at dealership",
+      "The 20 selected dealerships",
+      "All car owners"
+    ],
+    "correctAnswer": "Customers that arrive at dealership"
+  },
+  {
+    "id": 124,
+    "question": "The Customers Service Center of a large bank receive calls... The average number of calls recorded in the object 'Feb' is 5.85. The average in the object 'Sep' is 8.5. The difference between these two numbers is:",
+    "options": [
+      "A population.",
+      "A sample.",
+      "A statistic.",
+      "None of the above."
+    ],
+    "correctAnswer": "A statistic."
+  },
+  {
+    "id": 125,
+    "question": "The Customers Service Center of a large bank receive calls... The data used in the prompt above is best described as:",
+    "options": [
+      "A population.",
+      "A sample.",
+      "A parameter.",
+      "A statistic."
+    ],
+    "correctAnswer": "A sample."
+  },
+  {
+    "id": 126,
+    "question": "A computer generates 100 random numbers, and 100 people whose names correspond with the numbers on the list. Determine the type of sampling used.",
+    "options": [
+      "simple random",
+      "stratified",
+      "systematic",
+      "cluster"
+    ],
+    "correctAnswer": "simple random"
+  },
+  {
+    "id": 127,
+    "question": "An automobile producing company operates car dealerships... A statistic that may be used to summarize the outcome of the survey is:",
+    "options": [
+      "'Yes'",
+      "The percentage, among costumers that possess a car made by the company",
+      "The average number of customers",
+      "All of the above"
+    ],
+    "correctAnswer": "The percentage, among costumers that possess a car made by the company"
+  },
+  {
+    "id": 128,
+    "question": "The Customers Service Center of a large bank receive calls... In which of the months the number of incoming calls between 8:00 AM and 8:10 AM tends to be smaller?",
+    "options": [
+      "September",
+      "February",
+      "The number of incoming calls in both months is about the same.",
+      "One cannot answer the question based on the given data."
+    ],
+    "correctAnswer": "February"
+  },
+  {
+    "id": 129,
+    "question": "An automobile producing company operates car dealerships... A parameter that may be targeted by this survey is:",
+    "options": [
+      "The percentage of costumers that possess a car made by the company",
+      "The number of 'Yes' answers",
+      "The 20 dealerships",
+      ""
+    ],
+    "correctAnswer": "The percentage of costumers that possess a car made by the company"
+  },
+  {
+    "id": 130,
+    "question": "A market researcher polls every tenth person who walks into a store. Determine the type of sampling used.",
+    "options": [
+      "simple random",
+      "stratified",
+      "systematic",
+      "cluster"
+    ],
+    "correctAnswer": "systematic"
+  },
+  {
+    "id": 131,
+    "question": "The Customers Service Center of a large bank receive calls... The average number of calls that arrived between 8:00 AM and 8:10 AM during the working days of any month is:",
+    "options": [
+      "A population.",
+      "A sample.",
+      "A parameter.",
+      "A statistic."
+    ],
+    "correctAnswer": "A parameter."
+  },
+  {
+    "id": 132,
+    "question": "We are interested in the number of years students in a particular elementary statistics class have lived in California. Based on the table provided, What is the Interquartile Range?",
+    "options": [
+      "8",
+      "11",
+      "15",
+      "35"
+    ],
+    "correctAnswer": "8"
+  },
+  {
+    "id": 133,
+    "question": "The midterm grades on a chemistry exam... A stem plot for the above data... How many leaves are found in the Stem # 7?",
+    "options": [
+      "5",
+      "2",
+      "4",
+      "10"
+    ],
+    "correctAnswer": "10"
+  },
+  {
+    "id": 134,
+    "question": "The midterm grades on a chemistry exam... There are outliers in the given data.",
+    "options": [
+      "True",
+      "False",
+      "",
+      ""
+    ],
+    "correctAnswer": "True"
+  },
+  {
+    "id": 135,
+    "question": "We are interested in the number of years students in a particular elementary statistics class have lived in California. What is the mode?",
+    "options": [
+      "19",
+      "19.5",
+      "14 and 20",
+      "22.65"
+    ],
+    "correctAnswer": "19"
+  },
+  {
+    "id": 136,
+    "question": "E and F are mutually exclusive events. P(E) = 0.4; P(F) = 0.5. P(E|F) =",
+    "options": [
+      "0",
+      "0.25",
+      "2",
+      ""
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 137,
+    "question": "A box of cookies contains three chocolate and seven butter cookies. A person randomly selects two cookies (sequential). Let U be the event that the second cookie selected is a butter cookie. Find P(U).",
+    "options": [
+      "63/90",
+      "49/90",
+      "21/90",
+      ""
+    ],
+    "correctAnswer": "63/90"
+  },
+  {
+    "id": 138,
+    "question": "Roll two fair dice separately. Let A be the event that either a three or four is rolled first, followed by an even number. P(A) =",
+    "options": [
+      "6/21",
+      "6/36",
+      "21/36",
+      ""
+    ],
+    "correctAnswer": "6/36"
+  },
+  {
+    "id": 139,
+    "question": "Roll two fair dice separately. Let B be the event that the sum of the two rolls is at most seven. P(B) =",
+    "options": [
+      "36/21",
+      "6/21",
+      "21/36",
+      ""
+    ],
+    "correctAnswer": "21/36"
+  },
+  {
+    "id": 140,
+    "question": "Using the random variable Z (n=500, p=0.4), P(220 <= Z <= 260) is:",
+    "options": [
+      ".04",
+      ".13",
+      ".75",
+      ".86"
+    ],
+    "correctAnswer": ".04"
+  },
+  {
+    "id": 141,
+    "question": "Using the random variable Z (n=500, p=0.4), the expected number of successes (the expectation) is:",
+    "options": [
+      "0",
+      "200",
+      "240",
+      "260"
+    ],
+    "correctAnswer": "200"
+  },
+  {
+    "id": 142,
+    "question": "Using the random variable Z (n=500, p=0.4), the population standard deviation of Z is:",
+    "options": [
+      "10.95",
+      "12.00",
+      "30.00",
+      "sqrt(200)/n"
+    ],
+    "correctAnswer": "10.95"
+  },
+  {
+    "id": 143,
+    "question": "Let X be the amount of time (in minutes) a postal clerk spends with his or her customer. Assume X has an exponential distribution and E(X)=5 minutes. The rate (λ) is equal to:",
+    "options": [
+      "0",
+      ".20",
+      "5",
+      "sqrt(5/n)"
+    ],
+    "correctAnswer": ".20"
+  },
+  {
+    "id": 144,
+    "question": "Using the postal clerk distribution (Exp, mean=5), the probability that a clerk spends between four and five minutes with a randomly selected customer is:",
+    "options": [
+      ".00",
+      ".01",
+      ".03",
+      ".08"
+    ],
+    "correctAnswer": ".08"
+  },
+  {
+    "id": 145,
+    "question": "Using the postal clerk distribution (Exp, mean=5), the probability that a clerk spends MORE than 10 minutes with a customer is:",
+    "options": [
+      ".01",
+      ".14",
+      ".87",
+      ".91"
+    ],
+    "correctAnswer": ".14"
+  },
+  {
+    "id": 146,
+    "question": "There are two Poisson distributions: A (Expectation 11) and B (Expectation 13). What is the variance of distribution A?",
+    "options": [
+      "sqrt(11)",
+      "11/sqrt(n)",
+      "2.71",
+      "the expectation"
+    ],
+    "correctAnswer": "the expectation"
+  },
+  {
+    "id": 147,
+    "question": "Using Poisson distribution B (Expectation 13), what is the probability of getting exactly 13 successes?",
+    "options": [
+      ".01",
+      ".11",
+      ".17",
+      ".23"
+    ],
+    "correctAnswer": ".11"
+  },
+  {
+    "id": 148,
+    "question": "Using Poisson distribution B (Expectation 13), what would be the probability of getting MORE THAN 15 successes?",
+    "options": [
+      ".24",
+      ".66",
+      ".71",
+      ".75"
+    ],
+    "correctAnswer": ".24"
+  },
+  {
+    "id": 149,
+    "question": "Which R command would give us an estimate of the width of the range of the middle 90% of observations for Poisson distribution A (Expectation 11)?",
+    "options": [
+      "ppois(15,11)-ppois(12,15)",
+      "qpois(.95, 11) - qpois(.05, 11)",
+      "ppois(.05,13)-ppois(.95,13)",
+      "(15-12)/(sd(A)+sd(B))"
+    ],
+    "correctAnswer": "qpois(.95, 11) - qpois(.05, 11)"
+  },
+  {
+    "id": 150,
+    "question": "The patient recovery time from a particular surgical procedure is normally distributed with a mean of 6.8 days and a standard deviation of 1.7 days. What is the probability that recovery time is less than 7 days?",
+    "options": [
+      ".03",
+      ".21",
+      ".24",
+      ".55"
+    ],
+    "correctAnswer": ".55"
+  },
+  {
+    "id": 151,
+    "question": "Using the patient recovery time distribution (Normal, mean=6.8, SD=1.7), what is the z-score for a patient who takes 7 days to recover?",
+    "options": [
+      "0.12",
+      "0.30",
+      "2.10",
+      "1.40"
+    ],
+    "correctAnswer": "0.12"
+  },
+  {
+    "id": 152,
+    "question": "Using the patient recovery time distribution (Normal, mean=6.8, SD=1.7), what is the probability of spending more than 3 days in recovery?",
+    "options": [
+      ".92",
+      ".07",
+      ".95",
+      ".99"
+    ],
+    "correctAnswer": ".99"
+  },
+  {
+    "id": 153,
+    "question": "Using the patient recovery time distribution (Normal, mean=6.8, SD=1.7), the 90th percentile for recovery times is?",
+    "options": [
+      "7.8",
+      "8.2",
+      "8.6",
+      "9.0"
+    ],
+    "correctAnswer": "9.0"
+  },
+  {
+    "id": 154,
+    "question": "Which distribution does the decay parameter belong to?",
+    "options": [
+      "Uniform Distribution",
+      "Poisson distribution",
+      "Exponential distribution",
+      ""
+    ],
+    "correctAnswer": "Exponential distribution"
+  },
+  {
+    "id": 155,
+    "question": "Let X be a random variable following a Uniform distribution on the interval 0 and 8. So X~U(0,8). What is P(X>7 | X>4)?",
+    "options": [
+      "0",
+      "0.25",
+      "0.03",
+      "0.05"
+    ],
+    "correctAnswer": "0.25"
+  },
+  {
+    "id": 156,
+    "question": "The mean and the standard deviation are the same for which distribution?",
+    "options": [
+      "Uniform distribution",
+      "Exponential distribution",
+      "Normal distribution",
+      ""
+    ],
+    "correctAnswer": "Exponential distribution"
+  },
+  {
+    "id": 157,
+    "question": "Let X be a random variable following a Uniform distribution on the interval 0 and 8. So X~U(0,8). Find the 30th percentile of X.",
+    "options": [
+      "2",
+      "2.4",
+      "3",
+      "5"
+    ],
+    "correctAnswer": "2.4"
+  },
+  {
+    "id": 158,
+    "question": "Let X be a random variable following a Uniform distribution on the interval 0 and 8. What is the expected value of X?",
+    "options": [
+      "0",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "4"
+  },
+  {
+    "id": 159,
+    "question": "What is the variance of the exponential random variable (with rate m)?",
+    "options": [
+      "m",
+      "1/m",
+      "(1/m)^2",
+      ""
+    ],
+    "correctAnswer": "(1/m)^2"
+  },
+  {
+    "id": 160,
+    "question": "What best describes the memoryless property of an exponential random variable?",
+    "options": [
+      "The occurrence of past events does not affect the likelihood of future event.",
+      "P(X > x+k | X > x) = P(X > k)",
+      "Both of the above",
+      "None of the above"
+    ],
+    "correctAnswer": "Both of the above"
+  },
+  {
+    "id": 161,
+    "question": "U and V are mutually exclusive events. P(U) = 0.26; P(V) = 0.37. P (U OR V) =",
+    "options": [
+      "0.37",
+      "0",
+      "0.63",
+      ""
+    ],
+    "correctAnswer": "0.63"
+  },
+  {
+    "id": 162,
+    "question": "A box of cookies contains three chocolate and seven butter cookies. A person randomly selects two cookies. Let S be the event that both cookies selected were the same flavor. Find P(S).",
+    "options": [
+      "6/90",
+      "48/90",
+      "21/90",
+      ""
+    ],
+    "correctAnswer": "48/90"
+  },
+  {
+    "id": 163,
+    "question": "One hundred eighteen students were asked what type of color their bedrooms were painted... The results were tabulated according to gender. Find the probability that a randomly chosen student is male or has a bedroom painted with light colors.",
+    "options": [
+      "10/118",
+      "68/118",
+      "48/118",
+      "10/48"
+    ],
+    "correctAnswer": "68/118"
+  },
+  {
+    "id": 164,
+    "question": "Which of the following is NOT true about the sampling distribution of the sample mean?",
+    "options": [
+      "The mean of the sampling distribution is equal to the population mean.",
+      "The standard deviation of the sampling distribution is equal to the population standard deviation.",
+      "The shape of the sampling distribution becomes approximately normal as sample size increases.",
+      "The standard error decreases as the sample size increases."
+    ],
+    "correctAnswer": "The standard deviation of the sampling distribution is equal to the population standard deviation."
+  },
+  {
+    "id": 165,
+    "question": "Answer the question based on the dataset: 32, 32, 33, 34, 38, 40, 42, 42, 43, 44, 46, 47, 47, 48, 48, 48, 49, 50, 50, 51, 52, 52, 52, 53, 54, 56, 57, 57, 60, 61. What is the median of this data?",
+    "options": [
+      "48",
+      "47.5",
+      "48.5",
+      "49"
+    ],
+    "correctAnswer": "48"
+  },
+  {
+    "id": 166,
+    "question": "Based on the table of values (1.7462, 2.4291, 2.3978, 1.8295, 2.0956, 1.9801, 2.0638, 1.9862, 1.8192, 1.8221, 1.9418, 2.0916), find the mean (rounded to four decimal places):",
+    "options": [
+      "2.0169",
+      "2.0000",
+      "1.9987",
+      "2.1000"
+    ],
+    "correctAnswer": "2.0169"
+  },
+  {
+    "id": 167,
+    "question": "Two events A and B are independent if:",
+    "options": [
+      "P(A|B) = P(A)",
+      "P(A and B) = 0",
+      "P(A or B) = P(A) + P(B)",
+      "P(B|A) = P(B) + P(A)"
+    ],
+    "correctAnswer": "P(A|B) = P(A)"
+  },
+  {
+    "id": 168,
+    "question": "A statistics professor wants to know the average age of students at their university. They randomly select 50 students from the Engineering department. This sampling method is likely to suffer from:",
+    "options": [
+      "Selection bias (Undercoverage)",
+      "Non-response bias",
+      "Response bias",
+      "No bias"
+    ],
+    "correctAnswer": "Selection bias (Undercoverage)"
+  },
+  {
+    "id": 169,
+    "question": "Which of the following is a property of a geometric distribution?",
+    "options": [
+      "The number of trials is fixed.",
+      "We are interested in the number of trials until the first success.",
+      "The probability of success changes from trial to trial.",
+      "The trials are dependent."
+    ],
+    "correctAnswer": "We are interested in the number of trials until the first success."
+  },
+  {
+    "id": 170,
+    "question": "If the correlation coefficient (r) between two variables is -0.9, this indicates:",
+    "options": [
+      "A strong negative linear relationship",
+      "A weak negative linear relationship",
+      "A strong positive linear relationship",
+      "No linear relationship"
+    ],
+    "correctAnswer": "A strong negative linear relationship"
+  },
+  {
+    "id": 171,
+    "question": "The area under the standard normal curve to the left of z = 0 is:",
+    "options": [
+      "0.5",
+      "0.0",
+      "1.0",
+      "-0.5"
+    ],
+    "correctAnswer": "0.5"
+  },
+  {
+    "id": 172,
+    "question": "For a normal distribution with mean 10 and standard deviation 2, what is the probability that X is equal to exactly 10?",
+    "options": [
+      "0",
+      "0.5",
+      "1",
+      "Depends on the sample size"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 173,
+    "question": "Using the distribution of the random variable Y shown in the table (Values: -4, 0, 2, 6, 9, 11; Probabilities: .08, .13, .16, .22, .19, .22), calculate the probability that Y is positive (Y > 0).",
+    "options": [
+      ".79",
+      ".21",
+      ".57",
+      ".92"
+    ],
+    "correctAnswer": ".79"
+  },
+  {
+    "id": 174,
+    "question": "Roll two fair dice. What is the probability that the sum of the dots is exactly 7?",
+    "options": [
+      "6/36",
+      "1/6",
+      "7/36",
+      "5/36"
+    ],
+    "correctAnswer": "6/36"
+  },
+  {
+    "id": 175,
+    "question": "Which logical operator corresponds to the intersection of two events (Event A AND Event B)?",
+    "options": [
+      "Multiplication",
+      "Addition",
+      "Division",
+      "Subtraction"
+    ],
+    "correctAnswer": "Multiplication"
+  },
+  {
+    "id": 176,
+    "question": "Which of the following values of the correlation coefficient (r) indicates the strongest relationship between two variables?",
+    "options": [
+      "0.05",
+      "-0.89",
+      "0.60",
+      "-0.30"
+    ],
+    "correctAnswer": "-0.89"
+  },
+  {
+    "id": 177,
+    "question": "In a scatter plot, if the points generally fall close to a straight line sloping upward from left to right, the correlation is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Undefined"
+    ],
+    "correctAnswer": "Positive"
+  },
+  {
+    "id": 178,
+    "question": "The variable that is being predicted or explained in a regression analysis is called the:",
+    "options": [
+      "Independent variable",
+      "Dependent variable",
+      "Explanatory variable",
+      "Discrete variable"
+    ],
+    "correctAnswer": "Dependent variable"
+  },
+  {
+    "id": 179,
+    "question": "If the coefficient of determination (r-squared) is 0.64, what percentage of the variation in the dependent variable is explained by the independent variable?",
+    "options": [
+      "80%",
+      "64%",
+      "36%",
+      "6.4%"
+    ],
+    "correctAnswer": "64%"
+  },
+  {
+    "id": 180,
+    "question": "Which graph is most appropriate for displaying the relationship between two quantitative variables?",
+    "options": [
+      "Histogram",
+      "Pie Chart",
+      "Scatter Plot",
+      "Bar Chart"
+    ],
+    "correctAnswer": "Scatter Plot"
+  },
+  {
+    "id": 181,
+    "question": "Answer the question based on the dataset: 32, 32, 33, 34, 38, 40, 42, 42, 43, 44, 46, 47, 47, 48, 48, 48, 49, 50, 50, 51, 52, 52, 52, 53, 54, 56, 57, 57, 60, 61. What is the mode of this data?",
+    "options": [
+      "48",
+      "52",
+      "48 and 52",
+      "47"
+    ],
+    "correctAnswer": "48 and 52"
+  },
+  {
+    "id": 182,
+    "question": "Answer the question based on the dataset: 32, ... 61. If a stem-and-leaf plot were created for this data, how many leaves would be on the stem '3'?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5"
+  },
+  {
+    "id": 183,
+    "question": "A z-score of -2.5 indicates that a data value is:",
+    "options": [
+      "2.5 standard deviations below the mean",
+      "2.5 standard deviations above the mean",
+      "2.5 times the mean",
+      "equal to the mean"
+    ],
+    "correctAnswer": "2.5 standard deviations below the mean"
+  },
+  {
+    "id": 184,
+    "question": "When performing a hypothesis test, if the p-value is less than the significance level (alpha), the decision is to:",
+    "options": [
+      "Reject the null hypothesis",
+      "Fail to reject the null hypothesis",
+      "Accept the null hypothesis",
+      "Retest with a larger sample"
+    ],
+    "correctAnswer": "Reject the null hypothesis"
+  },
+  {
+    "id": 185,
+    "question": "Which of the following is an example of a Type I error?",
+    "options": [
+      "Rejecting a true null hypothesis",
+      "Failing to reject a false null hypothesis",
+      "Rejecting a false null hypothesis",
+      "Failing to reject a true null hypothesis"
+    ],
+    "correctAnswer": "Rejecting a true null hypothesis"
+  }
+]
