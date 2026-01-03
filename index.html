@@ -2,39 +2,45 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Online Practice Quiz</title>
+  <title>Practice Quiz</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<div class="quiz-container">
+<div class="app">
 
-  <!-- START SCREEN -->
-  <div id="start-screen">
-    <h2>Practice Quiz</h2>
-    <p>Each question has <b>90 seconds</b>.</p>
-    <button onclick="startQuiz()">Start Quiz</button>
+  <!-- START -->
+  <div id="start-screen" class="card fade-in">
+    <h1>Practice Quiz</h1>
+    <p>⏱ 90 seconds per question</p>
+    <button class="primary-btn" onclick="startQuiz()">Start Quiz</button>
   </div>
 
-  <!-- QUIZ SCREEN -->
-  <div id="quiz-screen" class="hidden">
+  <!-- QUIZ -->
+  <div id="quiz-screen" class="card hidden slide-in">
+
     <div class="top-bar">
-      <span id="question-number"></span>
-      <span id="timer">Time: 90s</span>
+      <span id="question-count"></span>
+      <span id="timer">90s</span>
     </div>
 
-    <h3 id="question"></h3>
+    <h2 id="question-text"></h2>
+
+    <img id="question-image" class="hidden"/>
+
+    <div id="question-palette"></div>
+
     <div id="options"></div>
 
-    <div class="nav-buttons">
-      <button onclick="prevQuestion()">Back</button>
-      <button onclick="nextQuestion()">Next</button>
-      <button onclick="endQuiz()">End</button>
+    <div class="nav">
+      <button onclick="prevQuestion()">⬅ Back</button>
+      <button onclick="nextQuestion()">Next ➡</button>
+      <button class="danger" onclick="endQuiz()">End</button>
     </div>
   </div>
 
-  <!-- RESULT SCREEN -->
-  <div id="result-screen" class="hidden"></div>
+  <!-- RESULT -->
+  <div id="result-screen" class="card hidden fade-in"></div>
 
 </div>
 

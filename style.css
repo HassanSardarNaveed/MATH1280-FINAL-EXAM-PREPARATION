@@ -1,47 +1,158 @@
-body {
-  font-family: Arial, sans-serif;
-  background: #f2f4f7;
-  padding: 20px;
+* {
+  box-sizing: border-box;
 }
 
-.quiz-container {
-  max-width: 600px;
+body {
+  margin: 0;
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+  font-family: "Segoe UI", sans-serif;
+  color: #333;
+}
+
+.app {
+  max-width: 900px;
   margin: auto;
-  background: white;
   padding: 25px;
-  border-radius: 8px;
+}
+
+.card {
+  background: white;
+  border-radius: 16px;
+  padding: 30px;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.2);
 }
 
 .hidden {
   display: none;
 }
 
-.top-bar {
-  display: flex;
-  justify-content: space-between;
-  font-weight: bold;
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 1.6rem;
   margin-bottom: 10px;
 }
 
-#timer {
-  color: red;
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.1rem;
+  font-weight: bold;
 }
 
-#options button {
-  display: block;
-  width: 100%;
-  padding: 10px;
-  margin: 8px 0;
+#timer {
+  color: #e63946;
+}
+
+.primary-btn {
+  padding: 14px 30px;
+  font-size: 1.2rem;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 30px;
   cursor: pointer;
 }
 
-.selected {
+.primary-btn:hover {
+  background: #0056b3;
+}
+
+#question-image {
+  max-width: 100%;
+  margin: 20px 0;
+  border-radius: 10px;
+  animation: fadeIn 0.4s ease;
+}
+
+#options button {
+  width: 100%;
+  padding: 15px;
+  margin: 8px 0;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  border: 2px solid #ddd;
+  background: #f8f9fa;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+#options button:hover {
+  background: #e9ecef;
+}
+
+#options .selected {
+  background: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.nav button {
+  padding: 12px 20px;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+
+.nav .danger {
+  background: #e63946;
+  color: white;
+}
+
+/* QUESTION PALETTE */
+
+#question-palette {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 15px 0;
+}
+
+#question-palette button {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+  background: #dee2e6;
+}
+
+#question-palette .active {
   background: #007bff;
   color: white;
 }
 
-.nav-buttons {
-  margin-top: 15px;
-  display: flex;
-  justify-content: space-between;
+#question-palette .answered {
+  background: #2a9d8f;
+  color: white;
+}
+
+/* ANIMATIONS */
+
+.fade-in {
+  animation: fadeIn 0.6s ease;
+}
+
+.slide-in {
+  animation: slideIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideIn {
+  from { transform: translateY(20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
 }
