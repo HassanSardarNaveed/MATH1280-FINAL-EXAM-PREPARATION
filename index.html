@@ -26,12 +26,13 @@
 
     <h2 id="question-text"></h2>
 
-    <img id="question-image" class="hidden">
+    <img id="question-image" class="hidden" />
 
     <!-- JUMP DROPDOWN -->
     <div class="jump-box">
       <label for="jump-select">Jump to question:</label>
-      <select id="jump-select" onchange="jumpToQuestion(this.value)"></select>
+      <select id="jump-select" onchange="jumpToQuestion(this.value)">
+      </select>
     </div>
 
     <div id="options"></div>
@@ -41,6 +42,7 @@
       <button onclick="nextQuestion()">Next ➡</button>
       <button class="danger" onclick="endQuiz()">End</button>
     </div>
+
   </div>
 
   <!-- RESULT SCREEN -->

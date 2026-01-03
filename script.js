@@ -6,7 +6,9 @@ let timeLeft = 90;
 
 fetch("questions.json")
   .then(res => res.json())
-  .then(data => questions = data);
+  .then(data => {
+    questions = data;
+  });
 
 function startQuiz() {
   document.getElementById("start-screen").classList.add("hidden");
@@ -27,7 +29,7 @@ function showQuestion() {
   document.getElementById("question-text").innerText = q.question;
 
   const img = document.getElementById("question-image");
-  if (q.image && q.image.trim()) {
+  if (q.image && q.image.trim() !== "") {
     img.src = q.image;
     img.classList.remove("hidden");
   } else {
@@ -37,17 +39,17 @@ function showQuestion() {
   const optionsDiv = document.getElementById("options");
   optionsDiv.innerHTML = "";
 
-  q.options.forEach(opt => {
-    if (opt.trim()) {
+  q.options.forEach(option => {
+    if (option.trim() !== "") {
       const btn = document.createElement("button");
-      btn.innerText = opt;
+      btn.innerText = option;
 
-      if (answers[currentIndex] === opt) {
+      if (answers[currentIndex] === option) {
         btn.classList.add("selected");
       }
 
       btn.onclick = () => {
-        answers[currentIndex] = opt;
+        answers[currentIndex] = option;
         showQuestion();
       };
 
@@ -60,6 +62,7 @@ function showQuestion() {
 
 function startTimer() {
   document.getElementById("timer").innerText = `${timeLeft}s`;
+
   timer = setInterval(() => {
     timeLeft--;
     document.getElementById("timer").innerText = `${timeLeft}s`;
@@ -74,7 +77,10 @@ function renderDropdown() {
   questions.forEach((_, i) => {
     const opt = document.createElement("option");
     opt.value = i;
-    opt.text = answers[i] ? `Question ${i + 1} ✔` : `Question ${i + 1}`;
+    opt.text = answers[i]
+      ? `Question ${i + 1} ✔`
+      : `Question ${i + 1}`;
+
     if (i === currentIndex) opt.selected = true;
     select.appendChild(opt);
   });

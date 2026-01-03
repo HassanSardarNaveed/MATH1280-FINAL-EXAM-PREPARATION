@@ -15,7 +15,7 @@ body {
 }
 
 .card {
-  background: white;
+  background: #ffffff;
   border-radius: 16px;
   padding: 30px;
   box-shadow: 0 15px 40px rgba(0,0,0,0.25);
@@ -31,6 +31,7 @@ h1 {
 
 h2 {
   font-size: 1.6rem;
+  margin-bottom: 10px;
 }
 
 .top-bar {
@@ -44,6 +45,7 @@ h2 {
   color: #e63946;
 }
 
+/* START BUTTON */
 .primary-btn {
   padding: 15px 35px;
   font-size: 1.2rem;
@@ -58,6 +60,7 @@ h2 {
   background: #0056b3;
 }
 
+/* IMAGE */
 #question-image {
   max-width: 100%;
   margin: 20px 0;
@@ -65,25 +68,37 @@ h2 {
   animation: fadeIn 0.4s ease;
 }
 
+/* JUMP DROPDOWN — FIXED */
 .jump-box {
-  margin: 15px 0;
+  margin: 20px 0;
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
 }
 
 .jump-box label {
-  font-size: 1.05rem;
+  font-size: 1.1rem;
   font-weight: 600;
+  color: #333;
 }
 
 .jump-box select {
-  padding: 10px 14px;
-  font-size: 1rem;
+  width: 230px;
+  padding: 12px 14px;
+  font-size: 1.05rem;
   border-radius: 8px;
-  border: 2px solid #ddd;
+  border: 2px solid #007bff;
+  background: #ffffff;
+  color: #000000;
+  cursor: pointer;
 }
 
+.jump-box select:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0,123,255,0.3);
+}
+
+/* OPTIONS */
 #options button {
   width: 100%;
   padding: 16px;
@@ -106,6 +121,7 @@ h2 {
   border-color: #007bff;
 }
 
+/* NAVIGATION */
 .nav {
   display: flex;
   justify-content: space-between;
@@ -126,7 +142,6 @@ h2 {
 }
 
 /* ANIMATIONS */
-
 .fade-in {
   animation: fadeIn 0.6s ease;
 }
